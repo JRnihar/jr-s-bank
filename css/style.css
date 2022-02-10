@@ -43,3 +43,6 @@ button:hover {
 button:hover::before {
     width: 100%;
 }
+/* .card-1{
+    margin-left: 100px;
+} */
