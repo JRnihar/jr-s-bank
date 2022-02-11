@@ -11,7 +11,7 @@ button {
     border-radius: 15px;
     color: #141414;
     z-index: 1;
-    background: #eea95b;
+    background: #f80000;
     position: relative;
     font-weight: 1000;
     font-size: 17px;
@@ -43,6 +43,8 @@ button:hover {
 button:hover::before {
     width: 100%;
 }
+
+
 /* .card-1{
     margin-left: 100px;
 } */
